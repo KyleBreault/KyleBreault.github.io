@@ -62,3 +62,9 @@ defaults:
       type: "posts"
     values:
       permalink: ""
+
+collections:
+  posts:
+    output: true
+    order:
+      - modal-id: asc

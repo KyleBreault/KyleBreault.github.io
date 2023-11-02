@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 6
 title: Primate Field Technician
 img: 1_primates_cropped.png
 alt: image-alt
