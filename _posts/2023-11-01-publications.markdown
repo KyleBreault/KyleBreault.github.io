@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-title: Primate Field Technician
+title: Research and Publications
 img: cabin.png
 alt: image-alt
 description: "<h3>Previous Published Research</h3><br>
