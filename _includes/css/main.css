@@ -482,3 +482,9 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+.center-paragraph {
+    text-align: left; /* Left-align the text within the paragraph */
+    margin: 0 auto; /* Center the paragraph horizontally */
+    max-width: 75vw; /* Optionally, set a maximum width for the paragraph to control its width */
+  }
