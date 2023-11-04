@@ -4,7 +4,7 @@ modal-id: 1
 title: Research and Publications
 img: publication.jpg
 alt: image-alt
-description: "<h3>Previous Published Research</h3><br>
+description: "<h3>Previous Published Research</h3>
 
 <h5><i>Arrival and departure windows of Atlantic sturgeon in the Chesapeake Bay, United States</i></h5>
 
